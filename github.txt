@@ -1,4 +1,4 @@
-账号密码 1054018207@qq.com  Cyz111111
+
 
 1，git init 初始化git仓库
 2. git add <file> 添加文件
