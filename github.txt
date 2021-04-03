@@ -16,3 +16,7 @@
  操作远程仓库
 你是
  err
+ 操作远程
+ git remote add origin https://github.com/cyz-2020/test.git
+git branch -M cyz
+git push -u origin cyz
