@@ -7,3 +7,5 @@
 5. git push 推送到仓库
 6. git pull 从远程仓库拉取数据  
 7. git clone 从远程仓库拷贝数据
+ git commit -m 'change app.js' 提交加备注
+ git rm --cached file 删除文件
